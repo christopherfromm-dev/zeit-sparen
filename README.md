@@ -10,7 +10,7 @@ Wir verkaufen Zeit: Abläufe eines Kunden ansehen, das Problem finden, das am me
 | :- | :- |
 | `kunden/` | ein Ordner pro Fall: Vorbereitung, Befund, Einrichtung, Messung |
 | `kunden/domi-agentur/` | Fall 0: Domis Agentur (Termin 22./23.11.2026) |
-| `vorlagen/` | wiederverwendbare Vorlagen (Erstgespräch, Protokoll, Büro-Grundgerüst) |
+| `vorlagen/` | wiederverwendbare Vorlagen: Heute-Liste, Posteingang, Sicherung, Skills (aus Chris' Büro), später Erstgespräch und Protokoll |
 | `werkzeuge/` | gebaute Werkzeuge (Skills, Skripte), die mehrere Kunden nutzen können |
 | `protokolle/` | Gespräche und Nachschauen |
 
