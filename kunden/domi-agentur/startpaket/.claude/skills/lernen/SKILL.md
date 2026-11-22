@@ -1,6 +1,6 @@
 ---
 name: lernen
-description: Gelerntes aus einem Gespräch festhalten und am Ende den Stand sichern. Laden, wenn Domi «merken», «merk dir das», «gute Nacht», «ich mach Schluss», «das wars» oder «bis morgen» sagt, wenn er etwas korrigiert hat und am Ende jeder längeren Sitzung von selbst.
+description: Gelerntes aus einem Gespräch festhalten, am Ende den Stand sichern und in den gemeinsamen Drive schreiben. Laden, wenn Domi «merken», «merk dir das», «gute Nacht», «ich mach Schluss», «Feierabend», «fertig für heute», «das wars» oder «bis morgen» sagt, wenn er ein To-do als erledigt meldet, wenn er etwas korrigiert hat und am Ende jeder längeren Sitzung von selbst.
 ---
 
 # Lernen
@@ -35,11 +35,18 @@ Domis Worte im Original, kurz, mit Datum. Deine Deutung als deine kennzeichnen.
 
 ## Schluss-Check
 
-Bei «gute Nacht», «ich mach Schluss», «bis morgen» vor der Antwort drei Dinge prüfen, mit Befehlen, nicht aus dem Kopf:
+Bei «gute Nacht», «ich mach Schluss», «bis morgen» vor der Antwort vier Dinge prüfen, mit Befehlen, nicht aus dem Kopf:
 
 1. **Gelernt.** Das Gespräch durchgehen: jede Korrektur, jedes «nein», jedes «ja genau», jeder eigene Fehler. Für jedes Learning prüfen, ob es abgelegt ist. Fehlt eines, jetzt ablegen.
-2. **Gesichert.** Alles, was heute entstanden ist, liegt als Datei in diesem Ordner, nicht nur im Gespräch (`ls -lt` und nach heute filtern). Was Chris sehen soll, liegt im gemeinsamen Drive-Ordner.
-3. **Stand.** `wissen/stand.md` hat oben einen Eintrag von heute: was passiert ist, was unverschickt liegt, was offen ist, womit der nächste Start anfängt. Erledigte To-dos sind in den Drive-Listen abgehakt, oder es steht im Stand, dass Domi sie noch abhaken muss.
+2. **Gesichert.** Alles, was heute entstanden ist, liegt als Datei in diesem Ordner, nicht nur im Gespräch (`ls -lt` und nach heute filtern).
+3. **Stand.** `wissen/stand.md` hat oben einen Eintrag von heute: was passiert ist, was unverschickt liegt, was offen ist, womit der nächste Start anfängt.
+4. **In den gemeinsamen Drive.** Damit Chris den Stand sieht:
+   - `wissen/stand.md` als `Stand Domis Büro.md` in den Ordner «Limited Strip» kopieren.
+   - In den Listen «Prozessoptimierung» und «Automatisierung» die Spalte «Stand» nachführen: «erledigt» mit Datum, «in Arbeit», neue Aufgaben als neue Zeile.
+   - Danach zurücklesen, ob es wirklich dort steht.
+   - Ist der Drive nicht erreichbar: Domi sagen, was er von Hand eintragen muss, und es im Stand unter «noch nachzutragen» festhalten.
+
+Dieser vierte Punkt gilt nicht nur beim Abschied. Auch wenn Domi mitten am Tag sagt «P2 ist fertig», wird die Liste im Drive sofort nachgeführt.
 
 Dann die Antwort an Domi, drei bis fünf Zeilen: was du dir gemerkt hast, was gesichert ist, womit es weitergeht. Offene Fragen an ihn stehen als offen da, nie als entschieden.
 

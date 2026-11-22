@@ -34,6 +34,16 @@ Voraussetzung: Claude Code ist installiert (Anleitung: `mac-einrichtung.md` im P
 
 Stimmt die Antwort mit dem überein, was Domi vom 22.11. weiß, ist das Büro bereit.
 
+### Damit Claude in den gemeinsamen Drive schreiben kann
+
+Am Ende jedes Gesprächs schreibt Claude den Stand in den gemeinsamen Drive-Ordner und führt die To-do-Listen nach. Dafür braucht es einmal:
+
+1. **Die Konnektoren Google Drive und Google Sheets** in Domis Claude-Konto einschalten (claude.ai → Einstellungen → Konnektoren). In Claude Code mit `/mcp` prüfen, ob beide da sind.
+2. **Den gemeinsamen Ordner in Domis eigene Ablage holen:** in Google Drive den Ordner «Zeit sparen – Chris & Domi» unter «Für mich freigegeben» suchen, Rechtsklick, «Verknüpfung zu Meine Ablage hinzufügen». Erst dann sieht ihn Google Drive für Desktop auf dem Mac.
+3. **Probe:** Claude sagen: «Schreib den Stand in den Drive und zeig mir, was in der Liste Prozessoptimierung bei P1 steht.» Kommt der richtige Wert zurück, klappt es.
+
+Ob die Konnektoren in Domis Tarif und in seinem Claude Code so ankommen, ist am 22.11. nicht geprüft worden.
+
 ## Wie die Konten geordnet sind
 
 Stand 22.11.2026: **Vorerst arbeiten Chris und Domi in einem gemeinsamen Drive-Ordner.** Sonst kann Chris nicht unterstützen.

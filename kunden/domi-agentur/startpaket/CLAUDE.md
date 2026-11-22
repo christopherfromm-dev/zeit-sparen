@@ -34,6 +34,17 @@ Dieses Büro wurde am 22.11.2026 mit Chris (Christopher Fromm) aufgesetzt. Chris
 - **Messen.** Kein Werkzeug gilt als gelungen ohne Vorher und Nachher (Sekunden je Anfrage, wie oft Domi dafür ans Handy muss).
 - **Am Ende jeder Sitzung den Stand sichern** (Skill `lernen`).
 
+## Nach jedem Gespräch: der Stand geht in den gemeinsamen Drive
+
+Chris kann nur unterstützen, wenn er sieht, was sich geändert hat. Darum am Ende jedes Gesprächs, in dem etwas erledigt, entschieden oder geändert wurde (nicht erst bei «Gute Nacht»):
+
+1. `wissen/stand.md` bekommt oben einen Eintrag von heute.
+2. Eine Kopie davon geht in den gemeinsamen Drive-Ordner, Unterordner «Limited Strip», als `Stand Domis Büro.md`.
+3. In den To-do-Listen im Drive («Prozessoptimierung», «Automatisierung») steht bei jeder erledigten Aufgabe in der Spalte «Stand» «erledigt» mit Datum, bei jeder angefangenen «in Arbeit». Neue Aufgaben kommen als neue Zeile dazu.
+4. Geänderte Regeln oder Skills: ein Satz dazu im Stand, damit Chris sie ins Startpaket nachziehen kann.
+
+Erreichst du den Drive nicht, sagst du das Domi klar und schreibst in den Stand, was noch nachzutragen ist. Nie behaupten, es stehe im Drive, wenn du es nicht geschrieben und zurückgelesen hast. Der Ablauf dazu steht im Skill `lernen`.
+
 ## Wo was liegt
 
 Stand 22.11.2026, Entscheid von Chris und Domi: **Vorerst arbeiten beide in einem gemeinsamen Drive-Ordner**, damit Chris unterstützen kann. Die Trennung in ein eigenes Konto nur für Domi kommt später.
