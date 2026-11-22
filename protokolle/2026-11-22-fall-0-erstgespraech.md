@@ -187,3 +187,21 @@ Aus dem Brainstorm, nichts davon entschieden, nichts gelöscht:
 - **30 Video-Fassungen** von Domi (Chris): als Abwechslung gut; nicht so, dass der Kunde glaubt, es sei eben für ihn aufgenommen.
 - **Eigene Limited-Strip-App** (Chris, «jetzt werde ich ganz crazy»): für Kunden, die einmal buchen, eine hohe Hürde; die Angebotsseite leistet dasselbe ohne Installation. Für die Künstler (Stammnutzer) später prüfenswert: Anfrage annehmen oder ablehnen, Showdaten, Änderungen.
 - **Angebotsseite im Chat-Look auf Domis Webseite** (Claude): Sprachnachricht, Setcards, Preis nach PLZ, Buchungslink, Knopf zu WhatsApp; Link dazu in der Bestätigungsmail.
+
+## Stand 15:15 Uhr: worauf es hinausläuft (Aufnahme `Sprache 261122_150347`, 10 Min.)
+
+**Das Ziel für den ersten Schritt, in Domis Worten:** Wenn die Automatik ihm abnimmt, «die Rufnummer abzuspeichern mit dem Namen in dem System, wie ich es immer habe», wenn sie «das alles vorbereitet, den Text fertig macht, dass ich dann persönlich auf WhatsApp abdrücke, wäre ja schon mal sehr hilfreich». Und: «Wenn ich aber 15 Mal nur auf den Knopf drücke, ist ja auch schon eine super Erleichterung. Auch wenn ich am Startplatz stehe, das stresst mich nicht. Ich muss nur kurz drüber gucken, klack, klack, klack, abschicken, fertig.»
+
+- **Gesendet wird von Hand.** Domi: «Er darf nicht automatisch sein.» Die Automatik setzt nur hinein.
+- **Was wegfallen soll:** Namen abspeichern, Screenshot, Text zusammensuchen. «Das ist zu viel Handarbeit.»
+- **Was der Kunde bekommt:** eine Nachricht mit seinem Vornamen, für ihn gefühlt persönlich, und die Sprachnachricht. Die Sprachnachricht gehört für Chris zur ersten Säule (die ersten 30 bis 60 Minuten: «hey, ich bin da»), nicht erst zum Angebot.
+- **Erste Säule nach Domi:** sofort reagieren, egal auf welchem Kanal, am besten innerhalb von fünf Minuten. Anrufe lassen sich nicht abnehmen. Das Formular schon.
+
+**Danach, noch nicht heute:**
+- Ein zweiter Schritt erkennt, dass die Nachricht raus ist, und was als Nächstes kommt (gebucht oder nicht).
+- Buchung der Anfrage zuordnen: über E-Mail und Name, falls die Nummer in der Buchung anders ist; Idee Vorgangsnummer.
+- Buchungslink, in dem Anfrage und Preis schon stehen, sodass der Kunde nur noch Adresse und Rest ergänzt und abschickt. Die Anfrage fragt wenig ab (Ort, Datum, Uhrzeit, Leistung, Name, Nummer, E-Mail), die Buchung viel mehr (Strasse, Adresse des Kunden für die Rechnung).
+- Künstler anfragen von selbst, per E-Mail statt WhatsApp. Auch das ist Pain: Wird am Freitag um 17 Uhr für 24 Uhr gebucht, muss die Show sofort vermittelt werden.
+- Webseite: Bestätigung der E-Mail-Adresse einbauen, gegen Scherzanfragen. Schwäche erkannt: Wer scherzt, kann eine eigene Wegwerf-Adresse bestätigen und trotzdem eine fremde Nummer eintragen.
+
+**Zu prüfen (Chris sagte, die Bestätigung per E-Mail sei in Deutschland für Anfragen gesetzlich vorgeschrieben):** Nach Claudes Wissen ist die doppelte Bestätigung der übliche Nachweis einer Einwilligung für Newsletter und Werbung; für eine Anfrage, die der Kunde selbst stellt, ist sie nicht vorgeschrieben. Keine Rechtsauskunft, vor einer Aussage an Dritte nachlesen.
