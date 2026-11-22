@@ -96,3 +96,14 @@ Das System soll den Preis selbst bestimmen: aus dem Ort, den der Kunde angibt, u
 - **Grenzen:** tiefster und höchster Preis, den das System nennen darf. Wann soll es Domi fragen statt selbst rechnen?
 - **Spritpreis:** Wie stark bewegt er den Preis wirklich, gemessen an den 10 bis 40 Euro?
 - Die Regel im Projekt bleibt: Domi legt fest, wie gerechnet wird. Das System rechnet nach seiner Regel.
+
+## Domi zum Preis, in seinen Worten (22.11., Diktat)
+
+- **Wann der Preis am meisten schwankt:** am Wochenende, bei kurzfristigen Anfragen am Freitag- und Samstagabend, wenn Leute «schnell noch eine Verfügbarkeit abfragen».
+- **Warum:** Oft ist im Umkreis von rund 100 Kilometern kein Künstler verfügbar. Dann fragt er Künstler aus einer anderen Region an. Beispiel: 150 Kilometer, zwei Stunden hin, zwei zurück, also vier Stunden Fahrzeit, dazu Kraftstoff.
+- **Woher er das weiss:** «Das weiss ich mittlerweile einfach aus dem Kopf, weil ich das seit Jahren mache.» Den Preis gibt er dann «rein aus dem Bauch, rein aus dem Gefühl».
+- **Die Künstler selbst sind verschieden:** Manche fahren für 180 Euro los, andere «generell nur für 200». Das sind schon die ersten 20 Euro. Günstigere Künstler fragt er lieber an: mehr Provision, oder ein tieferer Preis, damit der Kunde bei ihm bucht und nicht bei einer anderen Agentur.
+- **Wo der Preis heute schon fest ist:** in Grossstädten (er nennt Stuttgart, München). «Das ist sehr einfach zu kalkulieren.» Schwierig wird es dörflich und ländlich mit langer Anfahrt.
+- **Sein Entscheid, vorläufig:** «Ich könnte trotzdem wahrscheinlich einen Preis festlegen und würde im Schnitt am Ende vielleicht nur ein paar Euros weniger verdienen.» Bei Anfragen im Vorfeld «auf jeden Fall».
+
+**Stand Frage 4:** weitgehend beantwortet. Der Preis hängt an drei Dingen: Entfernung zum nächsten verfügbaren Künstler, Mindestgage des Künstlers (180 oder 200), Kurzfristigkeit am Wochenende. Ein fester Preis ist für Domi denkbar, in Grossstädten gilt er praktisch schon. Offen: welcher Betrag je Leistung, und ob für kurzfristig und ländlich ein Zuschlag oder «Preis auf Anfrage» gilt.
