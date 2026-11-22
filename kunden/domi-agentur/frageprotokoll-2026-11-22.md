@@ -107,3 +107,31 @@ Das System soll den Preis selbst bestimmen: aus dem Ort, den der Kunde angibt, u
 - **Sein Entscheid, vorläufig:** «Ich könnte trotzdem wahrscheinlich einen Preis festlegen und würde im Schnitt am Ende vielleicht nur ein paar Euros weniger verdienen.» Bei Anfragen im Vorfeld «auf jeden Fall».
 
 **Stand Frage 4:** weitgehend beantwortet. Der Preis hängt an drei Dingen: Entfernung zum nächsten verfügbaren Künstler, Mindestgage des Künstlers (180 oder 200), Kurzfristigkeit am Wochenende. Ein fester Preis ist für Domi denkbar, in Grossstädten gilt er praktisch schon. Offen: welcher Betrag je Leistung, und ob für kurzfristig und ländlich ein Zuschlag oder «Preis auf Anfrage» gilt.
+
+## To-do für Domi: die Grundbasis für den Preis (Vorschlag von Chris, 22.11.)
+
+Chris: Es braucht Kennzahlen von Domi, damit das System einen Preis finden kann. Ohne diese Basis bleibt der Preis in Domis Kopf.
+
+**1. Künstlerliste** im Reiter «Künstler» der Google Tabelle (nie im Repository, dort stehen auch die Nummern). Eine Zeile je Künstler:
+
+| Spalte | Wozu |
+| :- | :- |
+| Name wie auf der Setcard | Zuordnung |
+| Leistung (Stripper, Stripperin, Show, Fahrer) | wer für welche Anfrage in Frage kommt |
+| Wohnort mit PLZ | Entfernung zum Kunden |
+| Stufe: Basic oder Premium (Idee von Chris) | Preisstufe |
+| Mindestgage (180, 200, …) | unterste Grenze |
+| Wie weit fährt er (Kilometer oder Stunden) | wer für ländliche Anfragen in Frage kommt |
+| Kurzfristig am Wochenende zu haben: ja, nein, manchmal | die Freitag- und Samstagabende |
+| Notiz | Besonderes |
+
+Anfangen mit den Künstlern, die er am häufigsten vermittelt. Der Rest kommt nach.
+
+**2. Preis-Kennzahlen**, einmal von Domi festgelegt:
+- Richtpreis je Leistung in der Grossstadt (heute in den Texten: 289, 279, 759, 989 Euro).
+- Ab welcher Entfernung welcher Zuschlag.
+- Zuschlag für kurzfristig am Wochenende, ja oder nein.
+- Tiefster und höchster Preis je Leistung.
+- Die Regionen, in denen er kaum Künstler hat.
+
+**3. Buchungsquote:** Wie viele der 500 bis 600 Anfragen im Monat werden Buchungen? Aus der alten Excel für zwei, drei Monate zählen.
