@@ -227,3 +227,5 @@ Folgen:
 - Zu beobachten: Für einen Kunden, der schon im Chat ist, ist das Anfrageformular ein Schritt mehr.
 
 **22.11., abends:** Domis Kontakte liegen in iCloud. Frage von Chris: für möglichst viel Automatik auf Google umziehen? Vorschlag von Claude: nicht alles umziehen, sondern das Google-Konto auf dem iPhone dazunehmen (Kontakte eingeschaltet); das Programm legt neue Kundenkontakte in Google an, die bestehenden bleiben in iCloud. Der ganze Umzug erst mit dem Wechsel auf Android, nach einer Sicherung. Noch nicht entschieden.
+
+**22.11., abends, entschieden (Chris: «okay»):** Kontakte: Google kommt auf Domis iPhone dazu, das Programm legt neue Kundenkontakte dort an. Die bestehenden Kontakte bleiben in iCloud. Der ganze Umzug folgt mit dem Wechsel auf Android. Steht in den Drive-Listen als P16, P17 und A5.

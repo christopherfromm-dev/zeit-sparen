@@ -25,6 +25,8 @@ Ein bestehender Ablauf wird besser. Das kann Domi allein.
 | P13 | 1 | Hintergrundbild im Anfrageformular passend zur gewählten Leistung | Fiel Chris im Test auf | offen |
 | P14 | 3 | Künstlerliste füllen (Tabelle im Drive) | Für später: Künstler von selbst anfragen | offen |
 | P15 | alle | Zwei Wochen zählen: wie oft am Tag das Handy wegen Anfragen, wie viele antworten auf die Rückfrage | Sonst weiss niemand, ob eine Änderung wirkt | offen |
+| P16 | 1 | Google-Konto auf dem iPhone dazunehmen und dort «Kontakte» einschalten (Einstellungen → Kontakte → Accounts → Account hinzufügen → Google) | Das Programm legt neue Kundenkontakte in Google an, sie erscheinen von selbst auf dem iPhone | offen |
+| P17 | Grundlage | Beim Wechsel auf Android: alle Kontakte aus iCloud nach Google umziehen, vorher als Datei sichern | Die Künstlerkontakte dürfen dabei nicht verloren gehen | später |
 
 ## Automatisierung: To-dos für Chris und Domi
 
@@ -36,7 +38,7 @@ Domi muss die Arbeit nicht mehr machen.
 | A2 | Grundlage | Mac einrichten: Claude Code, Remote Control vom Handy, Tailscale, NAS, tägliche Sicherung, fester Fernzugang | beide | `mac-einrichtung.md` | offen |
 | A3 | Grundlage | Startpaket in den Ordner `buero` auf dem Mac legen und testen | beide | A2 | offen |
 | A4 | 1 | **Rückfrage mit einem Tipp:** Anfrageformular meldet an ein Programm, das Domi mit seinem Google-Konto im gemeinsamen Ordner anlegt; es trägt in die Tabelle «Anfragen» ein, formt die Nummer um, schreibt die Rückfrage mit Vornamen und schickt Domi eine Mail mit dem Knopf «Rückfrage senden» | Chris baut, Domi testet | Zugang zum Anfrageformular | als Nächstes |
-| A5 | 1 | Kontakt nach Domis Schema («LS26 2211 Christopher») von selbst anlegen. Domis Kontakte liegen in iCloud; Vorschlag: Google-Konto auf dem iPhone dazunehmen, neue Kundenkontakte dort anlegen, die alten bleiben, ganzer Umzug erst mit Android | Chris | A4, Google-Konto mit Kontakten auf dem iPhone | offen |
+| A5 | 1 | Kontakt nach Domis Schema («LS26 2211 Christopher») von selbst in Domis Google-Kontakten anlegen. Entschieden 22.11.: Google kommt auf dem iPhone dazu, die bestehenden Kontakte bleiben in iCloud, ganzer Umzug erst mit Android | Chris | A4, P16 | offen |
 | A6 | 1 | Erkennen, über welchen Eingang die Anfrage kam; bei WhatsApp und Telefon entfällt die Rückfrage | Chris | A4, eigener Link zum Anfrageformular | offen |
 | A7 | 1 | Dringlichkeit: Show heute oder morgen steht zuoberst | Chris | A4 | offen |
 | A8 | 2 | Preiskarte als Tabelle nach PLZ | Chris baut vor, Domi liest gegen | P4, P5 | offen |
