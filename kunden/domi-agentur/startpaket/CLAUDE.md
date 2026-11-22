@@ -18,7 +18,7 @@ Dieses Büro wurde am 22.11.2026 mit Chris (Christopher Fromm) aufgesetzt. Chris
 2. **WhatsApp ist Domis Geschäftsgrundlage.** Kein Weg, bei dem im schlechtesten Fall das WhatsApp-Konto gesperrt wird. Also: keine WhatsApp-Schnittstelle, kein ManyChat, keine Anmeldung bei Meta, keine Automatik, die über Domis WhatsApp von selbst sendet, auch nicht «wie ein Mensch getarnt». Erlaubt ist, was die Business-App selbst kann (Begrüßung, Schnellantworten), und jede Nachricht, die Domi von Hand abschickt. Der Wortlaut der WhatsApp-Regeln steht in `wissen/whatsapp-regeln.md`.
 3. **Preise legt Domi fest.** Sie stehen in seiner Preiskarte (`wissen/preiskarte.md`) und hängen an der PLZ der Show, nicht am Wohnort des Künstlers. Du schlägst nach, du erfindest keinen Preis.
 4. **Rechnungen nur als Entwurf.** Nie selbst abschließen oder versenden.
-5. **Kundendaten bleiben in Domis eigenem Bereich.** Siehe «Wo was liegt».
+5. **Kundendaten bleiben im gemeinsamen Drive-Ordner und auf Domis Geräten.** Siehe «Wo was liegt».
 6. **Was du nicht weißt, erfindest du nicht:** Preise, Termine, Verfügbarkeit, Namen. Lieber eine Zeile Rückfrage. Zahlen und Aussagen über fremde Regeln nur mit Quelle, wörtlich zitiert.
 7. **Nur ändern, was besprochen ist.** Fällt dir etwas anderes auf: nennen, nicht anfassen.
 8. **Vor jeder Änderung an Daten den alten Wert festhalten.** Nie Zeilen löschen.
@@ -36,14 +36,19 @@ Dieses Büro wurde am 22.11.2026 mit Chris (Christopher Fromm) aufgesetzt. Chris
 
 ## Wo was liegt
 
+Stand 22.11.2026, Entscheid von Chris und Domi: **Vorerst arbeiten beide in einem gemeinsamen Drive-Ordner**, damit Chris unterstützen kann. Die Trennung in ein eigenes Konto nur für Domi kommt später.
+
 | Ort | Was dort liegt | Wer Zugriff hat |
 | :- | :- | :- |
 | **Dieser Ordner** (`~/buero` auf Domis Mac) | Regeln, Skills, Wissen, Werkzeuge | Domi |
-| **Domis eigenes Google-Konto** | Firmendaten: Tabelle «Anfragen», Buchungsliste, Künstlerliste mit Nummern, Programme, die Kundendaten verarbeiten | nur Domi. Chris hat hier keinen Zugriff |
-| **Gemeinsamer Drive-Ordner «Zeit sparen – Chris & Domi», Unterordner «Limited Strip»** | das Projekt: To-do-Listen «Prozessoptimierung» und «Automatisierung», Pläne, Anleitungen | Domi und Chris |
+| **Gemeinsamer Drive-Ordner «Zeit sparen – Chris & Domi», Unterordner «Limited Strip»** | alles zum Projekt: To-do-Listen, Pläne, Anleitungen und vorerst auch die Arbeitsdaten (Tabelle «Anfragen», Buchungsliste, Künstlerliste) | Domi und Chris |
 | **NAS** | Sicherung dieses Ordners | Domi |
 
-Daraus folgt: Kundennamen, Telefonnummern, Buchungen und Passwörter gehören nie in den gemeinsamen Drive-Ordner und nie in eine Datei, die an Chris geht. Zeigt Domi Chris etwas, dann ohne Kundendaten oder am Bildschirm.
+Was daraus folgt:
+- Chris sieht vorerst auch Kundendaten. Das ist Domis Entscheid, damit Chris helfen kann.
+- Tabellen und Programme mit Kundendaten legt **Domi mit seinem eigenen Google-Konto** an und teilt sie mit Chris. Dann gehören sie ihm, und er kann die Freigabe später einfach entziehen, ohne etwas umzuziehen.
+- Kundendaten gehen nirgends sonst hin: nicht in das Repository von Chris, nicht in Mails an Dritte, nicht in fremde Dienste.
+- Später: eigener Bereich nur für Domi (steht im Fahrplan als A1).
 
 ## Der Ablauf der Agentur in Kürze
 

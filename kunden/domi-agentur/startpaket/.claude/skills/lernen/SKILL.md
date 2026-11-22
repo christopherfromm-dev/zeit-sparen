@@ -38,7 +38,7 @@ Domis Worte im Original, kurz, mit Datum. Deine Deutung als deine kennzeichnen.
 Bei «gute Nacht», «ich mach Schluss», «bis morgen» vor der Antwort drei Dinge prüfen, mit Befehlen, nicht aus dem Kopf:
 
 1. **Gelernt.** Das Gespräch durchgehen: jede Korrektur, jedes «nein», jedes «ja genau», jeder eigene Fehler. Für jedes Learning prüfen, ob es abgelegt ist. Fehlt eines, jetzt ablegen.
-2. **Gesichert.** Alles, was heute entstanden ist, liegt als Datei in diesem Ordner, nicht nur im Gespräch (`ls -lt` und nach heute filtern). Was Chris sehen soll, liegt ohne Kundendaten im gemeinsamen Drive-Ordner.
+2. **Gesichert.** Alles, was heute entstanden ist, liegt als Datei in diesem Ordner, nicht nur im Gespräch (`ls -lt` und nach heute filtern). Was Chris sehen soll, liegt im gemeinsamen Drive-Ordner.
 3. **Stand.** `wissen/stand.md` hat oben einen Eintrag von heute: was passiert ist, was unverschickt liegt, was offen ist, womit der nächste Start anfängt. Erledigte To-dos sind in den Drive-Listen abgehakt, oder es steht im Stand, dass Domi sie noch abhaken muss.
 
 Dann die Antwort an Domi, drei bis fünf Zeilen: was du dir gemerkt hast, was gesichert ist, womit es weitergeht. Offene Fragen an ihn stehen als offen da, nie als entschieden.

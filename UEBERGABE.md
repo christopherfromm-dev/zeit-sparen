@@ -11,11 +11,11 @@ Der erste Tag bei Domi ist gelaufen. Was sich gegenüber der Übergabe vom 21.11
 - **Alle Eingänge laufen künftig über das Anfrageformular.**
 - **Fahrplan:** zwei To-do-Listen im Drive unter «Limited Strip» (Prozessoptimierung für Domi, Automatisierung für beide), Abzug in `kunden/domi-agentur/startpaket/wissen/fahrplan.md`.
 - **Startpaket für Domis Claude Code:** `kunden/domi-agentur/startpaket/`, auch im Drive.
-- **Konten:** Firmendaten in Domis eigenem Google-Konto ohne Zugriff für Chris; das Projekt im gemeinsamen Drive-Ordner.
+- **Konten:** Vorerst arbeiten Chris und Domi in einem gemeinsamen Drive-Ordner, auch mit den Arbeitsdaten, damit Chris unterstützen kann (Chris, 22.11. abends). Tabellen mit Kundendaten legt Domi mit seinem Konto an und teilt sie. Ein eigener Bereich nur für Domi kommt später.
 - **Für jeden nächsten Kunden:** `vorlagen/erstgespraech-learnings.md`.
 - Erledigt aus Abschnitt 6: 6.1, 6.2 (erster Punkt), 6.8 (Protokoll). Überholt: Abschnitt 4 «Empfohlenes Vorgehen» und in Abschnitt 5 die Reihenfolge der Werkzeuge.
 
-**Als Nächstes:** A4 im Fahrplan bauen (Rückfrage mit einem Tipp), sobald Domis eigenes Google-Konto steht; Mac einrichten und das Startpaket hineinlegen.
+**Als Nächstes:** A4 im Fahrplan bauen (Rückfrage mit einem Tipp), Mac einrichten und das Startpaket hineinlegen.
 
 ---
 

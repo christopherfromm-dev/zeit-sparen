@@ -19,9 +19,9 @@ Neuester Eintrag oben. Jeder Eintrag: was passiert ist, was offen ist, womit der
 
 **Offen**
 - Preiskarte gegenlesen, Preise für die Schweiz und Österreich.
-- Eigenes Google-Konto für die Firmendaten.
+- Später ein eigener Bereich nur für Domi. Vorerst arbeiten Chris und Domi im gemeinsamen Drive-Ordner.
 - Mac einrichten und dieses Startpaket hineinlegen.
 - Alles Weitere im Fahrplan (`fahrplan.md`).
 
 **Beim nächsten Start zuerst**
-Das erste Werkzeug, A4 im Fahrplan: die Rückfrage mit einem Tipp. Dafür braucht es Domis Google-Konto und den Zugang zum Anfrageformular in WordPress. Davor die drei Handgriffe P1 bis P3, die Domi allein machen kann.
+Das erste Werkzeug, A4 im Fahrplan: die Rückfrage mit einem Tipp. Dafür braucht es den Zugang zum Anfrageformular in WordPress; die Tabelle «Anfragen» legt Domi im gemeinsamen Drive-Ordner an. Davor die drei Handgriffe P1 bis P3, die Domi allein machen kann.

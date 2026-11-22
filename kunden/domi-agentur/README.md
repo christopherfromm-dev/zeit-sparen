@@ -31,4 +31,4 @@ Gemeinsamer Ordner «Zeit sparen – Chris & Domi», Unterordner «Limited Strip
 - «Automatisierung»: To-dos für Chris und Domi
 - «Startpaket Domis Claude»
 
-Firmendaten (Tabelle «Anfragen», Buchungsliste, Künstlerliste mit Nummern) gehören in Domis eigenes Google-Konto, auf das Chris keinen Zugriff hat. Nichts davon kommt in dieses Repository.
+Vorerst liegen auch die Arbeitsdaten (Tabelle «Anfragen», Buchungsliste, Künstlerliste) im gemeinsamen Ordner, damit Chris unterstützen kann. Domi legt sie mit seinem Konto an und teilt sie. Nichts davon kommt in dieses Repository.

@@ -36,13 +36,14 @@ Stimmt die Antwort mit dem überein, was Domi vom 22.11. weiß, ist das Büro be
 
 ## Wie die Konten geordnet sind
 
-Drei Orte, drei Zwecke:
+Stand 22.11.2026: **Vorerst arbeiten Chris und Domi in einem gemeinsamen Drive-Ordner.** Sonst kann Chris nicht unterstützen.
 
-1. **Domis eigenes Google-Konto.** Hier liegen die Firmendaten: die Tabelle «Anfragen», die Buchungsliste, die Künstlerliste mit Nummern und jedes Programm, das Kundendaten anfasst. **Chris hat hier keinen Zugriff.** Das ist so gewollt, es sind Domis Kunden.
-2. **Der gemeinsame Drive-Ordner «Zeit sparen – Chris & Domi», Unterordner «Limited Strip».** Hier liegt das Projekt: die zwei To-do-Listen, Pläne, Anleitungen. Chris arbeitet hier als Berater mit. Kundendaten gehören nicht hierher.
-3. **Der Mac mit NAS und Tailscale.** Hier läuft Claude Code im Ordner `buero`. Domi erreicht ihn vom Handy über Remote Control. Das NAS sichert den Ordner.
+1. **Der gemeinsame Drive-Ordner «Zeit sparen – Chris & Domi», Unterordner «Limited Strip».** Hier liegt alles zum Projekt: die zwei To-do-Listen, Pläne, Anleitungen und vorerst auch die Arbeitsdaten wie die Tabelle «Anfragen». Chris arbeitet hier als Berater mit und sieht damit auch Kundendaten.
+2. **Der Mac mit NAS und Tailscale.** Hier läuft Claude Code im Ordner `buero`. Domi erreicht ihn vom Handy über Remote Control. Das NAS sichert den Ordner.
 
-Was heute noch im gemeinsamen Ordner liegt und Firmendaten wird, sobald es gefüllt ist (Buchungsliste, Künstlerliste), zieht in Domis eigenes Konto um. Das ist ein To-do in der Liste «Automatisierung».
+Wichtig beim Anlegen: Tabellen und Programme mit Kundendaten legt **Domi mit seinem eigenen Google-Konto** an und teilt sie mit Chris. Dann gehören sie Domi. Will er Chris später heraushalten, entzieht er die Freigabe, und nichts muss umziehen.
+
+Später kommt ein eigener Bereich nur für Domi dazu. Das steht im Fahrplan als A1.
 
 ## Woher die Arbeitsweise kommt
 

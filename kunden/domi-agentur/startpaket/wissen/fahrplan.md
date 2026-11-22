@@ -32,10 +32,10 @@ Domi muss die Arbeit nicht mehr machen.
 
 | Nr. | Säule | Aufgabe | Wer | Braucht | Stand |
 | :- | :- | :- | :- | :- | :- |
-| A1 | Grundlage | Eigenes Google-Konto für die Firmendaten, ohne Zugriff für Chris | Domi | – | offen |
+| A1 | Grundlage | Später: eigener Bereich für die Firmendaten, ohne Zugriff für Chris. Vorerst arbeiten beide im gemeinsamen Drive-Ordner; Tabellen mit Kundendaten legt Domi mit seinem Konto an und teilt sie | Domi | – | später |
 | A2 | Grundlage | Mac einrichten: Claude Code, Remote Control vom Handy, Tailscale, NAS, tägliche Sicherung, fester Fernzugang | beide | `mac-einrichtung.md` | offen |
 | A3 | Grundlage | Startpaket in den Ordner `buero` auf dem Mac legen und testen | beide | A2 | offen |
-| A4 | 1 | **Rückfrage mit einem Tipp:** Anfrageformular meldet an ein Programm in Domis Google-Konto, das trägt in die Tabelle «Anfragen» ein, formt die Nummer um, schreibt die Rückfrage mit Vornamen und schickt Domi eine Mail mit dem Knopf «Rückfrage senden» | Chris baut, Domi testet | A1, Zugang zum Anfrageformular | als Nächstes |
+| A4 | 1 | **Rückfrage mit einem Tipp:** Anfrageformular meldet an ein Programm, das Domi mit seinem Google-Konto im gemeinsamen Ordner anlegt; es trägt in die Tabelle «Anfragen» ein, formt die Nummer um, schreibt die Rückfrage mit Vornamen und schickt Domi eine Mail mit dem Knopf «Rückfrage senden» | Chris baut, Domi testet | Zugang zum Anfrageformular | als Nächstes |
 | A5 | 1 | Kontakt nach Domis Schema («LS26 2211 Christopher») von selbst anlegen oder als Anhang zum Sichern | Chris | A4 | offen |
 | A6 | 1 | Erkennen, über welchen Eingang die Anfrage kam; bei WhatsApp und Telefon entfällt die Rückfrage | Chris | A4, eigener Link zum Anfrageformular | offen |
 | A7 | 1 | Dringlichkeit: Show heute oder morgen steht zuoberst | Chris | A4 | offen |
