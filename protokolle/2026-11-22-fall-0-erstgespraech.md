@@ -215,3 +215,13 @@ Aus dem Brainstorm, nichts davon entschieden, nichts gelöscht:
 - **WhatsApp:** Fehlen Daten, schreibt er nur: «Schick mir Ort, Postleitzahl, Datum und eine Uhrzeit und was du möchtest.» Dann wieder Sprachnachricht, Link zur Buchung, Setcards.
 - Diese Kunden füllen **kein Anfrageformular** aus. Sie gehen vom Angebot direkt ins Buchungsformular und tragen dort PLZ, Namen und alles ein.
 - Es sind immer dieselben fünf Angaben: Ort, PLZ, Datum, Uhrzeit, Leistung.
+
+## Entscheid 15:50 Uhr: alle drei Eingänge laufen über das Anfrageformular
+
+Chris und Domi: Künftig schreibt der Kunde Ort, PLZ, Datum, Uhrzeit und Leistung nicht mehr frei in WhatsApp. Wer anruft oder per WhatsApp schreibt, bekommt den Link zum Anfrageformular. Dort wird er geführt und vertippt sich weniger. Domi: «Ist besser.»
+
+Folgen:
+- Es gibt nur noch einen Weg, den die Automatik bedienen muss: Anfrageformular herein, Programm bereitet vor, Domi drückt ab.
+- Die kleine Eingabeseite für frei geschriebene WhatsApp-Nachrichten (Vorschlag von Claude) entfällt.
+- Offen: Bei Kunden, die schon mit Domi im Chat sind, braucht es die Rückfrage nicht. Das Programm muss also erkennen, über welchen Eingang die Anfrage kam, zum Beispiel über einen eigenen Link zum Anfrageformular für diese Kunden.
+- Zu beobachten: Für einen Kunden, der schon im Chat ist, ist das Anfrageformular ein Schritt mehr.
