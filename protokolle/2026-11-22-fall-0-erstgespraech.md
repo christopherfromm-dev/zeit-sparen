@@ -123,3 +123,20 @@ Folge für den Befund: Der höchste Pain liegt bisher bei Anfrage bis Buchung (7
 - Elementor-Pro-Formulare können nach dem Absenden von sich aus: Mail an Domi, **zweite Mail an den Kunden**, **Weiterleitung auf eine Danke-Seite**, Webhook. Die Angaben aus dem Formular lassen sich in Mail und Weiterleitung einsetzen. Vor Ort im Formular unter «Actions After Submit» bestätigen.
 - Das Feld für die Rufnummer ist ein gewöhnliches Textfeld («Wichtig! Deine Rufnummer für Rückfragen eintragen»), ohne Prüfung. Darum geht auch «1» durch. E-Mail ist ein E-Mail-Feld, einmal abgefragt.
 - Folge: Doppelte Eingabe, Prüfung der Nummer, Danke-Seite mit WhatsApp-Knopf und Bestätigungsmail mit demselben Knopf gehen mit dem, was Domi schon hat, ohne neues Werkzeug.
+
+## Noch offen in der Bestandsaufnahme (Punkte 1 bis 4, Stand 22.11. mittags)
+
+Chris, 22.11.: «Wir sind jetzt noch in der Bestandsaufnahme, nicht beim Lösen.» Lösungsideen aus dem Chat sind geparkt, bis der Befund steht.
+
+- **Mengen:** Anfragen pro Tag und Woche, normale Zeit und Hochsaison. Wie viele davon werden Buchungen?
+- **Tempo:** Wie schnell muss die Antwort da sein, bevor der Kunde weg ist (Minuten, Stunden)? Woran merkt er, dass einer weg ist?
+- **Verlust:** Wie viele Buchungen gehen ihm verloren, wenn er drei Stunden nicht antwortet? Schätzung reicht.
+- **Zeit je Anfrage:** Minuten von der Anfrage bis zum verschickten Angebot, an einer echten Anfrage gestoppt. Bisher keine Zahl.
+- **Eine echte Anfrage ansehen:** die Formular-Mail (was steht drin, an welches Postfach), der WhatsApp-Chat dazu, was er tippt und kopiert.
+- **Preis:** Wovon hängt er ab, in welcher Spanne bewegt er sich, wie lange braucht er dafür?
+- **Setcards:** welche schickt er, wie viele, wo liegen sie, wann variiert er?
+- **WhatsApp-Anfragen und Telefon:** Was ist dort anders als beim Formular?
+- **Nicht-Bucher:** Was passiert mit Anfragen, die nach dem Angebot still bleiben? Fasst er nach?
+- **Sein Maximum:** der grösste Stress, den er je hatte, als seine 10. Daran die 7,5 nochmals abfragen.
+- **Ziel:** 6,5 heute oder 3 am Ende? Beides ist gefallen.
+- **Aufnahme:** Domis Ja zur Aufnahme einmal ausdrücklich festhalten.
