@@ -16,6 +16,7 @@ Stand 22.11.2026. Zusammengestellt von Chris' Claude aus dem ersten Arbeitstag b
 | `wissen/textbausteine.md`, `wissen/sprachnachrichten.md` | Domis Texte und die vier Sprachnachrichten im Wortlaut |
 | `wissen/whatsapp-regeln.md` | Was WhatsApp erlaubt und verbietet, wörtlich, mit Links |
 | `wissen/fahrplan.md` | Alle To-dos nach den vier Säulen, Abzug der Drive-Listen |
+| `wissen/links.md` | Die Links zu den Anfrageformularen und Buchungsformularen |
 
 ## So kommt das Paket auf den Mac
 
