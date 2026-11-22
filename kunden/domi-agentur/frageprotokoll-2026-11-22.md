@@ -137,3 +137,5 @@ Anfangen mit den Künstlern, die er am häufigsten vermittelt. Der Rest kommt na
 **3. Buchungsquote:** Wie viele der 500 bis 600 Anfragen im Monat werden Buchungen? Aus der alten Excel für zwei, drei Monate zählen.
 
 **22.11., erledigt:** Google Tabelle «Künstlerliste Limited Strip Events» im Drive-Ordner «Zeit sparen – Chris & Domi» angelegt (Kopfzeile mit zehn Spalten und einer Beispielzeile zum Löschen). Domi passt die Spalten an und füllt sie.
+
+**22.11., Chris:** Die Buchungsquote (wie viele Anfragen zu Buchungen werden) wird heute nicht gebraucht. Gestrichen für heute, höchstens später fürs Messen. Für den Weg «Anfrage bis Buchung» sind noch zwei Dinge offen: Domis Entscheid, ob WhatsApp automatisch senden darf oder er selbst sendet, und eine echte Anfrage als Video (Formular-Mail und Chat).
