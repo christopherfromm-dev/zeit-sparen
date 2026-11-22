@@ -85,7 +85,7 @@ In den Notizen liegen angepinnt: LSE Anfrage Whats App No Call, LSE Buchung What
 
 1. **Die 58 und 70 Sekunden bestehen fast ganz aus Kopieren zwischen fünf Apps:** Mail, Kontakte, Notizen, Maps, WhatsApp. Kein Schritt braucht ein Urteil ausser dem Preis, und der steht in der Karte.
 2. **Bestätigungsmail und Danke-Seite gibt es schon.** Für den Knopf «Angebot per WhatsApp holen» müssen nur zwei bestehende Texte geändert werden.
-3. **Schreibt der Kunde zuerst, fallen fünf von acht Handgriffen des Erstkontakts weg:** Kontakt anlegen, Nummer umformen, Screenshot, Notiz kopieren, Kontakt suchen. Und die 30 %, die nicht antworten, gibt es so nicht mehr, weil der Kunde selbst den ersten Schritt macht.
+3. **Schreibt der Kunde zuerst, fallen fünf von acht Handgriffen des Erstkontakts weg:** Kontakt anlegen, Nummer umformen, Screenshot, Notiz kopieren, Kontakt suchen. Ob damit auch die rund 30 % ohne Antwort verschwinden, ist offen: Aus «antwortet nicht» kann «tippt den Knopf nicht an» werden. Das zeigt erst die Messung.
 4. **Die Anfrage-Mail ist maschinenlesbar.** Leistung, PLZ, Datum und Vorname lassen sich herausziehen: für den Preis aus der Karte, für die Dringlichkeit, für die Anrede.
 5. **Der Preis hängt heute an Google Maps und am Bauch.** Mit der Karte wird daraus ein Nachschlagen über die PLZ. Für die Schweiz und Österreich fehlen die Preise noch (im Test 449 € für Interlaken).
 6. **Die Setcards werden aus einem alten Chat weitergeleitet.** Für eine Automatik müssen sie als Dateien bereitliegen, getrennt nach Stripperinnen und Strippern. Die zehn Setcards der Stripperinnen liegen jetzt im Drive-Ordner.
