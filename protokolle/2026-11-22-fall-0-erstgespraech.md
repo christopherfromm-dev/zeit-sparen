@@ -14,6 +14,20 @@ Aufnahme: Diktiergerät am Handy, vier Stücke (10:00, 10:12, 10:39, 10:53 Uhr, 
 - **Was darunter gelitten hat:** eine Beziehung («du bist ja immer bei der Arbeit»), Urlaub, Abende auf der Couch.
 - **Was er mit der Zeit täte:** «deutlich entspannter», auf Neues fokussieren, «vielleicht ein neues Business», mit Freunden «präsenter» sein, «mit voller Aufmerksamkeit».
 
+## Nachtrag von Chris (Diktat, 22.11. mittags)
+
+Das Wichtigste aus seiner Sicht. Die Punkte mit * sind **nicht auf den Aufnahmen** (sie fielen in die Lücken) und stehen nur hier.
+
+- **Traum:** gar nicht mehr arbeiten müssen, nur noch den Kontostand sehen. (Im Diktat «Kontostand auf Null», auf der Aufnahme: «nur noch am Ende des Monats den Kontostand sehen».)
+- **Pain:** dauerhaft schnell und verfügbar sein müssen, *vor allem Freitag bis Sonntag.
+- **Gain:** deutlich entspannter, Neues machen, fokussierter, neue Business-Ideen, weniger Ablenkung, präsenter für Familie, Freunde, Freundin, egal wo er ist.
+- ***Der Use Case, an dem alles hängt: das Landen.** Domi fliegt gern, auch drei Stunden, weil er in der Luft nicht an die Arbeit denkt. Nach der Landung hat er sofort Handlungsbedarf und muss ans Handy, egal mit wem er unterwegs ist. In der Hochsaison (Beispiel Mai) liegen dann rund 15 Anfragen da.
+- ***Heisse Zeit:** 17 bis 20 Uhr. Rund 70 % kommen über die Formulare.
+- **Pain 7,5** auf der Skala, auf der 10 der grösste Stress ist, den man bei der Arbeit spüren kann. *Domi will weit hinunter, im Diktat: «direkt auf eine 3». (Auf der Aufnahme nennt Chris als Ziel für heute 6,5.)
+- **Chris' Einschätzung, als seine gekennzeichnet:** Die 7,5 ist für ihn zu hoch gegriffen, gemessen daran, wie entspannt er Domi erlebt. Sie ist aber die Wahrnehmung des Kunden und gilt. Dieselbe Zahl bedeutet bei zwei Menschen nicht dasselbe.
+
+**Für die Methode (jeder Kunde):** Die Schmerzskala braucht einen Anker. Vor der Zahl sagen, was 0 und was 10 heisst, und ein Beispiel für die Mitte geben. Sonst fehlt die Relation, und die Zahlen zweier Kunden sind nicht vergleichbar. Die Zahl des Kunden trotzdem stehen lassen und an ihr messen (vorher/nachher bei demselben Menschen).
+
 ## Befund
 
 - **Zurückgespiegelt (Chris):** «Dein grösster Pain ist, dass du ständig verfügbar sein musst, ständig aufs Handy schauen und sehr schnell handeln, um Buchungen zu dir zu holen. Sonst gehen die zur Konkurrenz.»
