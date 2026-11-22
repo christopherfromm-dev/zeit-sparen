@@ -73,7 +73,7 @@ Quelle: Domis Deutschlandkarte mit Handeinträgen, Foto vom 22.11.2026 (`preiska
 
 ## Was die Karte zeigt
 
-- Sechs Preisstufen: 249, 259, 279, 289, 299, 329, 349. Spanne 100 Euro.
+- Sieben Preisstufen: 249, 259, 279, 289, 299, 329, 349. Spanne 100 Euro.
 - Am günstigsten sind die grössten Städte (Hamburg, Berlin, Köln GS), am teuersten die Ränder und dünn besetzte Gegenden.
 - Wo GS und MS getrennt stehen, ist MS 10 bis 40 Euro teurer.
 
