@@ -1,4 +1,25 @@
-# Übergabe: Stand Zeit sparen, 21.11.2026
+# Übergabe: Stand Zeit sparen
+
+## Stand 22.11.2026 abends (gilt vor allem, was weiter unten steht)
+
+Der erste Tag bei Domi ist gelaufen. Was sich gegenüber der Übergabe vom 21.11. geändert hat:
+
+- **Wegweiser für Fall 0:** `kunden/domi-agentur/README.md`. Der Tag in Stichpunkten: `kunden/domi-agentur/zusammenfassung-2026-11-22.md`. Der Verlauf: `protokolle/2026-11-22-fall-0-erstgespraech.md`.
+- **Das erste Werkzeug ist nicht mehr «Änderung per Zuruf» (W5),** sondern die Rückfrage mit einem Tipp nach dem Anfrageformular. Domis grösster Pain ist, ständig verfügbar zu sein, nicht die Änderungen.
+- **WhatsApp:** kein Weg, der im schlechtesten Fall das Konto kostet. ManyChat, die Schnittstelle und jede Automatik über Domis WhatsApp entfallen. Die Automatik bereitet vor, Domi drückt ab. Steht in `CLAUDE.md`.
+- **Preis:** hängt an der PLZ der Show. Domis Preiskarte liegt als Liste vor.
+- **Alle Eingänge laufen künftig über das Anfrageformular.**
+- **Fahrplan:** zwei To-do-Listen im Drive unter «Limited Strip» (Prozessoptimierung für Domi, Automatisierung für beide), Abzug in `kunden/domi-agentur/startpaket/wissen/fahrplan.md`.
+- **Startpaket für Domis Claude Code:** `kunden/domi-agentur/startpaket/`, auch im Drive.
+- **Konten:** Firmendaten in Domis eigenem Google-Konto ohne Zugriff für Chris; das Projekt im gemeinsamen Drive-Ordner.
+- **Für jeden nächsten Kunden:** `vorlagen/erstgespraech-learnings.md`.
+- Erledigt aus Abschnitt 6: 6.1, 6.2 (erster Punkt), 6.8 (Protokoll). Überholt: Abschnitt 4 «Empfohlenes Vorgehen» und in Abschnitt 5 die Reihenfolge der Werkzeuge.
+
+**Als Nächstes:** A4 im Fahrplan bauen (Rückfrage mit einem Tipp), sobald Domis eigenes Google-Konto steht; Mac einrichten und das Startpaket hineinlegen.
+
+---
+
+# Übergabe vom 21.11.2026 (Ausgangslage vor dem Termin)
 
 Alles, was in der Cloud-Sitzung vom 21.11.2026 erarbeitet wurde, und alles, was noch fehlt. Geschrieben für eine neue Claude-Sitzung (z. B. auf dem Tower) und für Chris und Domi zum Nachlesen. Wer nur diese Datei liest, soll weiterarbeiten können.
 

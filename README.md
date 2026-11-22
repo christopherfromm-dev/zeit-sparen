@@ -9,7 +9,7 @@ Wir verkaufen Zeit: Abläufe eines Kunden ansehen, das Problem finden, das am me
 | Ordner | Inhalt |
 | :- | :- |
 | `kunden/` | ein Ordner pro Fall: Vorbereitung, Befund, Einrichtung, Messung |
-| `kunden/domi-agentur/` | Fall 0: Domis Agentur (Termin 22./23.11.2026) |
+| `kunden/domi-agentur/` | Fall 0: Domis Agentur (Termin 22./23.11.2026). Wegweiser: `README.md` dort; Startpaket für Domis Claude in `startpaket/` |
 | `vorlagen/` | wiederverwendbare Vorlagen: Heute-Liste, Posteingang, Sicherung, Skills (aus Chris' Büro), später Erstgespräch und Protokoll |
 | `werkzeuge/` | gebaute Werkzeuge (Skills, Skripte), die mehrere Kunden nutzen können |
 | `protokolle/` | Gespräche und Nachschauen |

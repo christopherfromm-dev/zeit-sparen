@@ -3,6 +3,8 @@
 Stand 21.11.2026 (abends, mit Domis Antworten vom 21.11.), für den Termin bei Domi am 22./23.11. («Fall 0»).
 Grundlage: der geteilte Ordner «Zeit sparen – Chris & Domi» (Zusammenfassung, Lesefassung, Checkliste Erstgespräch, Tabelle «To-dos, Kunden und Use Cases», Domis Dokument «Automatisierung Limited Strip Events – Ablauf & Plan») und Chris' laufendes System (Tower, NAS, Tailscale, Büro mit Heute-Liste, tägliche Sicherung auf Drive).
 
+> **Stand 22.11.2026 abends:** Die Schritte zum Einrichten des Macs (Abschnitt 2) gelten weiter. Überholt sind das erste Werkzeug (nicht mehr «Änderung per Zuruf», sondern die Rückfrage mit einem Tipp, A4 im Fahrplan) und die WhatsApp-Regel in der `CLAUDE.md`-Vorlage unter 2.10. Statt dieser Vorlage kommt das fertige Startpaket in den Ordner `buero`: `startpaket/`, Anleitung in `startpaket/LIES-MICH-ZUERST.md`. Firmendaten liegen in Domis eigenem Google-Konto, nicht im gemeinsamen Ordner.
+
 ---
 
 ## 0. Ziel in einem Satz

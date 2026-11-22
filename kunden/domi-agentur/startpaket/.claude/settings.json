@@ -1,0 +1,26 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"$CLAUDE_PROJECT_DIR/.claude/scripts/lernen-erinnerung.sh\"",
+            "timeout": 10,
+            "statusMessage": "Pruefe, ob Learnings mitzuziehen sind..."
+          }
+        ]
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"$CLAUDE_PROJECT_DIR/.claude/scripts/morgen-erinnerung.sh\"",
+            "timeout": 10,
+            "statusMessage": "Ist es Morgen?"
+          }
+        ]
+      }
+    ]
+  }
+}
