@@ -2,6 +2,10 @@
 
 Stand 22.11.2026, Vorschlag von Claude zum Präsentieren. Noch nichts gebaut, nichts an Domis Webseite oder WhatsApp geändert. Die Entwürfe für Texte unten passt Domi an, es sind seine Kunden.
 
+## Entscheid vom 22.11.2026 (nach diesem Vorschlag)
+
+Chris und Domi: **Für Limited Strip Events darf automatisch per WhatsApp gesendet werden.** Das Sperrrisiko kennt Domi, es steht in seinem eigenen Dokument. Für streckenfliegen.com gilt das nicht. Damit ist die «Stufe danach» unten nicht mehr aufgeschoben: Das Angebot darf von selbst rausgehen. Der Abschnitt «Der Weg mit Automatik» am Ende dieser Datei beschreibt das.
+
 ## Der Gedanke in einem Satz
 
 Der Kunde schreibt Domi zuerst, nicht umgekehrt. Dann ist die Nummer geprüft, niemand Fremdes bekommt Post, und WhatsApp darf von sich aus sofort antworten.
@@ -84,3 +88,28 @@ LIMITED STRIP EVENTS
 - Ob Elementor Pro bei Domi «Redirect» und «Email 2» anbietet (laut Elementor-Doku ja).
 - Ob eine Schnellantwort am iPhone Bilder und die Sprachnachricht mitnimmt. Sonst: Text als Schnellantwort, Setcards und Sprachnachricht wie heute weiterleiten.
 - Ob die Begrüssungsnachricht auch kommt, wenn der Kunde über den Knopf schreibt (sollte, es ist seine erste Nachricht).
+
+## Der Weg mit Automatik (nach dem Entscheid vom 22.11.)
+
+Die Schritte 1 bis 4 bleiben. Schritt 5 übernimmt die Automatik:
+
+| Schritt | Was passiert | Wer |
+| :- | :- | :- |
+| 1 bis 3 | Formular, Danke-Seite und Mail mit Knopf, Kunde schreibt per WhatsApp | wie oben |
+| 4 und 5 | Auf die Nachricht des Kunden folgt sofort das ganze Angebot: Text, Preis, Buchungslink, Setcards, Sprachnachricht | Automatik (ManyChat oder ähnlich) |
+| 6 | Kunde bucht über den Link | Kunde |
+
+Domi tut bis zur Buchung nichts. Er sieht den Chat und kann jederzeit selbst übernehmen.
+
+**Warum der Knopf bleibt, obwohl automatisch gesendet werden darf:**
+- Schreibt der Kunde zuerst, darf das Unternehmen laut WhatsApp 24 Stunden lang frei antworten, auch mit Bildern und Ton.
+- Schreibt das Unternehmen zuerst, braucht es eine von Meta genehmigte Vorlage und die Zustimmung des Kunden. Ob Meta eine Vorlage für dieses Geschäft genehmigt, ist offen.
+- Die Nummer ist geprüft, Fremde bekommen nichts.
+
+**Noch nicht nachgelesen, beim Einrichten zu prüfen:**
+- Ob sich Domis Nummer mit ManyChat verbinden lässt und dabei in der Business-App bleibt («Coexistence»).
+- Ob Meta das Geschäft beim Verbinden annimmt. Das zeigt sich erst beim Versuch.
+- Was ManyChat und die Nachrichten kosten.
+- Wie der Preis in die Nachricht kommt: aus der Karte über die PLZ. Für den Anfang reicht ein Angebot je Leistung mit dem Preis der Karte für die genannte Stadt; die Automatik fragt die PLZ ab oder liest sie aus der Nachricht.
+
+**Empfehlung:** die Automatik zuerst mit einer zweiten Nummer ausprobieren, damit die Hauptnummer nicht am ersten Versuch hängt.
