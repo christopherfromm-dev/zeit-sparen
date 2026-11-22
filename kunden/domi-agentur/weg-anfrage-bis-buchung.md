@@ -113,3 +113,14 @@ Domi tut bis zur Buchung nichts. Er sieht den Chat und kann jederzeit selbst üb
 - Wie der Preis in die Nachricht kommt: aus der Karte über die PLZ. Für den Anfang reicht ein Angebot je Leistung mit dem Preis der Karte für die genannte Stadt; die Automatik fragt die PLZ ab oder liest sie aus der Nachricht.
 
 **Empfehlung:** die Automatik zuerst mit einer zweiten Nummer ausprobieren, damit die Hauptnummer nicht am ersten Versuch hängt.
+
+## Nachtrag nach den Screenshares (22.11., Mittag)
+
+Die Aufnahmen (`ist-ablauf-aus-screenshares.md`) bestätigen den Weg und machen ihn einfacher:
+
+- **Danke-Seite und Bestätigungsmail an den Kunden gibt es schon.** Handgriff 1 und 2 von «Die eine Sache für heute» schrumpfen auf: zwei bestehende Texte ändern und den Knopf einsetzen. Keine neue Seite, keine neue Formular-Aktion.
+- **Was der Knopf an Handarbeit spart:** beim Erstkontakt fünf von acht Handgriffen (Kontakt anlegen, Nummer umformen, Screenshot, Notiz kopieren, Kontakt suchen), heute 58 Sekunden je Anfrage.
+- **Die rund 30 %, die auf die Rückfrage nicht antworten,** fallen weg, weil der Kunde selbst zuerst schreibt. Dafür ist neu zu messen, wie viele den Knopf antippen. Wer ihn nicht antippt, bleibt als Formular-Mail bei Domi wie heute.
+- **Reihenfolge des Angebots** nach dem Test: Sprachnachricht, Setcards, zuletzt kurz Preis und Buchungslink, damit der Link unten steht.
+- **Für die Automatik bereitzulegen:** Setcards als Dateien (Stripperinnen liegen im Drive, Stripper fehlen), die vier Sprachnachrichten als Dateien, die Preise für Schweiz und Österreich.
+- **Zweite Baustelle, gleiche Säule:** Buchungslink mit vorausgefüllten Daten und festem Preis, gegen doppeltes Tippen und falsche Preise.
