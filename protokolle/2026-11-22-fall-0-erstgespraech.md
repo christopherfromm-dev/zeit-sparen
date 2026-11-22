@@ -176,3 +176,14 @@ Vorher entschieden (steht in `CLAUDE.md`): kein Weg, der im schlechtesten Fall d
 - Idee: rund 30 Fassungen aufnehmen (am Berg, zu Hause), in denen Domi sich filmt und den Text spricht; die Webseite spielt eine davon ein.
 
 Beide: Es ist ein Brainstorm, nichts entschieden.
+
+## Ideen, geparkt (22.11., ab 14:45)
+
+Aus dem Brainstorm, nichts davon entschieden, nichts gelöscht:
+
+- **Telegram statt WhatsApp** (Chris): Automatik dort erlaubt, aber der Kunde braucht App und Konto.
+- **SMS** (Chris): geht automatisch und ohne Registrierung, trägt aber nur Text und Link, keine Setcards, keine Sprachnachricht.
+- **Mac, der über Domis WhatsApp von selbst sendet, getarnt als Mensch** (Chris): von Claude abgelehnt, höchstes Sperrrisiko, widerspricht dem Entscheid.
+- **30 Video-Fassungen** von Domi (Chris): als Abwechslung gut; nicht so, dass der Kunde glaubt, es sei eben für ihn aufgenommen.
+- **Eigene Limited-Strip-App** (Chris, «jetzt werde ich ganz crazy»): für Kunden, die einmal buchen, eine hohe Hürde; die Angebotsseite leistet dasselbe ohne Installation. Für die Künstler (Stammnutzer) später prüfenswert: Anfrage annehmen oder ablehnen, Showdaten, Änderungen.
+- **Angebotsseite im Chat-Look auf Domis Webseite** (Claude): Sprachnachricht, Setcards, Preis nach PLZ, Buchungslink, Knopf zu WhatsApp; Link dazu in der Bestätigungsmail.
