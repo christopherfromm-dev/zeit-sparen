@@ -209,3 +209,9 @@ Aus dem Brainstorm, nichts davon entschieden, nichts gelöscht:
 **Korrektur von Domi, 15:30 Uhr:** Die Sprachnachricht (eine von vier, sie erklärt den Ablauf am Tag der Show) gehört nicht zum Erstkontakt, sondern zum Angebot, also zur zweiten Säule. In diesem Schritt bekommt der Kunde zusammen: die Sprachnachricht, das Angebot mit der Aufforderung zu buchen, den Preis und die Setcards. In Claudes Ablauf von 15:15 fehlten Preis, Buchungsaufforderung und Setcards. Es sind also zwei Momente, in denen Domi abdrückt: 1. die Rückfrage nach dem Anfrageformular, 2. nach dem Ja des Kunden das Angebot.
 
 **Ergänzung von Domi, 15:35 Uhr:** Die Rückfrage («Ist das deine Anfrage?») gibt es nur nach dem Anfrageformular. Ruft der Kunde an oder schreibt er direkt über den WhatsApp-Knopf auf der Homepage, fällt sie weg, weil klar ist, dass er es ist. Dann beginnt es gleich mit dem Angebot (zweite Säule).
+
+**Domi zu Anruf und WhatsApp, 15:40 Uhr, in seinen Worten:**
+- **Anruf:** «Das Erste, was ich ihm sage: Schreib mir bitte in WhatsApp und schick mir kurz Ort, Postleitzahl, Datum, was du möchtest, eine Uhrzeit. Daraufhin erhält er sofort von mir die Sprachnachricht, den Link zur Buchung mit den Infos, wie er bucht, mit dem Preis und den Setcards.»
+- **WhatsApp:** Fehlen Daten, schreibt er nur: «Schick mir Ort, Postleitzahl, Datum und eine Uhrzeit und was du möchtest.» Dann wieder Sprachnachricht, Link zur Buchung, Setcards.
+- Diese Kunden füllen **kein Anfrageformular** aus. Sie gehen vom Angebot direkt ins Buchungsformular und tragen dort PLZ, Namen und alles ein.
+- Es sind immer dieselben fünf Angaben: Ort, PLZ, Datum, Uhrzeit, Leistung.
