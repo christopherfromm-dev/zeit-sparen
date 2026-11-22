@@ -65,3 +65,19 @@ Der Schmerz ist in Domis Worten belegt: ständig verfügbar sein müssen, nicht 
 ## Kriterien für «die eine Sache zum Zeigen»
 
 In höchstens drei Stunden fertig, nichts Halbes. Domi nutzt sie am selben Tag an drei echten Fällen. Keine Nachricht geht ohne seinen Klick raus. Keine neue Abhängigkeit, keine Kundendaten im Repository. Sie bleibt, wenn Handy, Homepage oder Wohnort wechseln. Die Minuten werden gezählt.
+
+## Antworten von Domi (Diktat von Chris, 22.11. nachmittags)
+
+| Frage | Antwort | Noch offen |
+| :- | :- | :- |
+| 1 Mengen | **Hochsaison April bis Juli: 500 bis 600 Anfragen im Monat** (Anfragen, nicht Buchungen). **Nebensaison, alle übrigen Monate: rund 200 bis 300 im Monat.** Gerechnet: rund 17 bis 20 am Tag in der Hochsaison, 7 bis 10 in der Nebensaison. | Wie viele davon buchen |
+| 2 Tempo | «Innerhalb der ersten **30 bis 60 Minuten** sollte der Erstkontakt entstehen. Safe.» Erstkontakt heisst: Rückfrage «Ist das deine Anfrage?», Ja des Kunden, dann das Angebot (Setcards, Sprachnachricht, Buchungslink). | – |
+| 2 Verlust | «Kann keine Auskunft dazu geben. Ist nicht messbar.» Er weiss nicht, wer woanders bucht und bei wem es sich erledigt hat. | bleibt offen, nicht messbar |
+| 3 Echte Anfrage | Noch nicht gemacht. Geplant: Video mit einer Anfrage (zur Not gestellt: Chris füllt das Formular aus), Formular-Mail, Chat, Minuten bis zum Angebot. | Video und Minuten |
+| 4 Preis | Der Preis kommt **nicht im Erstkontakt**, sondern erst im Angebot mit dem Buchungslink. Für Domi ist er Teil der zweiten Säule und damit der zweite Schritt. | Wie oft und um wie viel er abweicht; fest oder Spanne |
+| 5 bis 8 | noch nicht beantwortet | alle |
+
+**Was das für den Befund heisst (keine Lösung):**
+- Die Anforderung an den Erstkontakt ist 30 bis 60 Minuten, nicht Sekunden.
+- Domi trennt selbst zwei Schritte: 1. Erstkontakt (Rückfrage und Ja), 2. Angebot mit Preis. Der offene Preis-Entscheid betrifft nur Schritt 2.
+- Der Verlust durch späte Antworten lässt sich nicht beziffern. Die Wirkung muss an etwas anderem gemessen werden (Frage 8).
