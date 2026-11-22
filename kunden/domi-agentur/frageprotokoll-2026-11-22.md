@@ -81,3 +81,5 @@ In höchstens drei Stunden fertig, nichts Halbes. Domi nutzt sie am selben Tag a
 - Die Anforderung an den Erstkontakt ist 30 bis 60 Minuten, nicht Sekunden.
 - Domi trennt selbst zwei Schritte: 1. Erstkontakt (Rückfrage und Ja), 2. Angebot mit Preis. Der offene Preis-Entscheid betrifft nur Schritt 2.
 - Der Verlust durch späte Antworten lässt sich nicht beziffern. Die Wirkung muss an etwas anderem gemessen werden (Frage 8).
+
+**Nachtrag zu Frage 4 (Preis):** Der Preis weicht um **10 bis 40 Euro** ab. Grund sind immer die **Anfahrtskosten**, oder die Show liegt in einem Gebiet, in dem es sehr wenige Künstler und Künstlerinnen gibt. Noch offen: wie oft er abweicht, und ob der Preis fest werden darf oder eine Spanne.
