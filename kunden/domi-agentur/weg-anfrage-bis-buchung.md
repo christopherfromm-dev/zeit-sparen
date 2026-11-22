@@ -2,6 +2,12 @@
 
 Für die Präsentation an Domi, 22.11.2026. Geschliffene Fassung; die erste liegt daneben als `weg-anfrage-bis-buchung-v1-2026-11-22.md`. Was geändert wurde und warum, steht am Ende. Gebaut ist noch nichts, an Webseite und WhatsApp ist nichts geändert.
 
+## Entscheid vom 22.11.2026, nachmittags: Fassung B entfällt
+
+Nach dem Nachlesen der WhatsApp-Regeln (Wortlaut im Frageprotokoll) haben Chris und Domi entschieden: Ein Weg, bei dem im schlechtesten Fall das WhatsApp-Konto der Agentur gesperrt wird, kommt nicht in Frage. Chris: «Das ist ähnlich wie wenn man beim Gleitschirmfliegen sterben würde. Das geht einfach nicht.»
+
+Damit gilt für alles unten: **Fassung B (ManyChat, Anmeldung bei Meta) wird nicht gebaut**, auch nicht als Versuch mit zweiter Nummer, weil Meta beide Nummern derselben Firma zuordnen kann. Ebenso keine Automatik, die über Domis eigenes WhatsApp von selbst sendet. Es bleibt Fassung A und, für alle, die den Knopf nicht antippen, eine vorbereitete Rückfrage, die Domi mit einem Tipp abschickt.
+
 ## Wo du heute stehst
 
 Du landest nach drei Stunden in der Luft. Dort oben hast du nicht an die Arbeit gedacht. Am Boden liegen in der Hochsaison rund 15 Anfragen und jede will in den nächsten 30 bis 60 Minuten eine Antwort, sonst schreibt der Kunde die nächste Agentur an.

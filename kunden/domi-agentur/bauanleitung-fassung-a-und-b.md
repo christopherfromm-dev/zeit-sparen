@@ -2,6 +2,8 @@
 
 Stand 22.11.2026. Gehört zu `weg-anfrage-bis-buchung.md`. Noch nichts gebaut. Die Zeiten sind Schätzungen von Claude. Die Klickwege in WordPress, WhatsApp Business und ManyChat stammen aus Claudes Wissen und sind an Domis Geräten nicht geprüft; wo ein Knopf anders heisst, ein Foto schicken.
 
+**Entscheid 22.11.2026, nachmittags: Fassung B wird nicht gebaut.** Grund: Im schlechtesten Fall sperrt Meta das WhatsApp-Konto der Agentur, damit können Chris und Domi nicht leben. Der Teil zu Fassung B unten bleibt nur als Unterlage stehen.
+
 ## Das Bild dazu
 
 **Fassung A ist ein Klingelschild und ein Zettelkasten.** An der Tür steht gross «Hier klingeln für dein Angebot». Der Kunde klingelt. Drinnen sagt eine Stimme vom Band «Bin gleich da». Domi greift in den Zettelkasten und reicht das fertige Angebot hinaus. Er muss noch selbst zur Tür.

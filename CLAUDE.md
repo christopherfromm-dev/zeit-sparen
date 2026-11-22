@@ -9,7 +9,8 @@ Projekt von Chris und Domi, getrennt von streckenfliegen.com. Nichts von hier na
 - Ablauf mit jedem Kunden: Anamnese, Befund, kleinste Lösung, Testcase, seine Entscheidung, erst dann das ganze System.
 - Weniger ist mehr: ein Werkzeug, das täglich genutzt wird, vor dem nächsten.
 - Claude selbst sendet nie etwas an Dritte (WhatsApp, Mail, Rechnung). Claude bereitet vor und baut.
-- Ob ein gebautes System beim Kunden automatisch sendet, entscheidet der Kunde für sein Unternehmen, nachdem er das Risiko kennt. **Limited Strip Events (Domi): automatisches Senden per WhatsApp ist erlaubt** (Entscheid Chris und Domi, 22.11.2026). Für streckenfliegen.com gilt das nicht, dort bleibt die Senderegel.
+- Ob ein gebautes System beim Kunden automatisch sendet, entscheidet der Kunde für sein Unternehmen, nachdem er das Risiko kennt.
+- **Limited Strip Events (Domi), Entscheid 22.11.2026 nachmittags:** kein Weg, bei dem im schlechtesten Fall das WhatsApp-Konto der Agentur gesperrt wird. Chris: «Mit dem Worst Case können wir nicht leben.» Damit entfallen die WhatsApp-Schnittstelle (ManyChat und Ähnliches, Anmeldung bei Meta) und jede Automatik, die über Domis eigenes WhatsApp von selbst sendet. Erlaubt bleibt: was die Business-App selbst kann (Begrüssung, Schnellantworten), Nachrichten, die Domi von Hand abschickt, und automatische Mails. Der Entscheid vom Mittag («automatisch per WhatsApp ist in Ordnung») ist damit eingeschränkt.
 - Rechnungen nur als Entwurf, Preise legt der Kunde fest (bei Domi: seine Preiskarte).
 - Laufende To-dos stehen in der Drive-Tabelle «To-dos, Kunden und Use Cases», nicht hier.
 
