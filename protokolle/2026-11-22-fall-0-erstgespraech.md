@@ -140,3 +140,22 @@ Chris, 22.11.: «Wir sind jetzt noch in der Bestandsaufnahme, nicht beim Lösen.
 - **Sein Maximum:** der grösste Stress, den er je hatte, als seine 10. Daran die 7,5 nochmals abfragen.
 - **Ziel:** 6,5 heute oder 3 am Ende? Beides ist gefallen.
 - **Aufnahme:** Domis Ja zur Aufnahme einmal ausdrücklich festhalten.
+
+## Stand 14:00 Uhr: was heute gebaut wird (Aufnahme `Sprache 261122_140231`, 10 Min.)
+
+**Zwei Dinge sauber trennen (Chris):**
+- **Prozess verbessern:** ein bestehender Ablauf wird besser, es kommen weniger Rückfragen und Fehler. Texte, Formulare, Reihenfolge. Das kann Domi allein, «das hättest du schon vor einem Jahr machen können».
+- **Automatisieren:** Domi muss die Arbeit nicht mehr machen. Auch eine laufende Automatik wird danach immer wieder verbessert.
+- Im Drive soll das getrennt liegen: ein Oberordner je Firma (hier Limited), darin «Automatisierungen» und «Prozesse», dazu eine Tabelle mit den To-dos. Alles wird dokumentiert, damit jeder sieht, was gemacht ist.
+
+**Was Domi heute will:** das Werkzeug für den grössten Pain. Kommt ein Anfrageformular herein (Domi hier: rund 80 %, am Vormittag 70 %), geht **sofort automatisch per WhatsApp** die erste Nachricht an den Kunden: «Hallo, ist das deine Anfrage?», dazu der Satz, dass das Angebot so schnell wie möglich folgt. Domi: «Das fühlt sich für mich jetzt machbar an.»
+- Der Screenshot der Anfrage muss nicht mit. Es reicht die Frage, ob er es ist.
+- Schreibt der Kunde selbst per WhatsApp, entfällt dieser Schritt ohnehin.
+
+**Was heute nicht gebaut wird:** die zweite Säule (Angebot von selbst mit Sprachnachricht, Setcards, Preis). Dafür braucht es Hausaufgaben. Domi: in drei Stunden «kann ich mir nicht vorstellen».
+
+**Rahmen:** rund drei Stunden, Feierabend 17 bis 18 Uhr. Chris: heute die Grundlage legen, damit die Automatik überhaupt aufsetzen kann (Ordner, Preiskarte weiterführen, Konto bei ManyChat, fehlende Texte), nicht alles fertig bauen. Domi möchte am liebsten heute auf eine 3 hinunter; Chris: Der Physio sagt jetzt, wir müssen trainieren, du willst das Schmerzmittel.
+
+**Korrektur zum Preis:** Der Preis hängt an der **Postleitzahl der Show**, nicht am Wohnort des Künstlers. An einem Ort kostet ein Stripper 299 Euro, «egal, welcher dahin fährt». Die Künstlerliste braucht es für den Preis also nicht. Sie braucht es später, wenn auch die Anfrage an die Künstler von selbst gehen soll (dritte Säule). Domi kennt das von einer anderen Agentur: Datei mit allen Künstlern und Adresse, das System ermittelt zur PLZ der Anfrage, wer in Frage kommt. Chris: so ist es einfacher für ein System und fairer für die Künstler.
+
+**Was Domi an Claudes Vorschlag stört:** die Stelle «wenn Meta mitspielt». Und Chris beim Lesen von Fassung A: «Was will er überhaupt jetzt von uns?» Fassung A war also nicht klar genug.
