@@ -205,3 +205,5 @@ Aus dem Brainstorm, nichts davon entschieden, nichts gelöscht:
 - Webseite: Bestätigung der E-Mail-Adresse einbauen, gegen Scherzanfragen. Schwäche erkannt: Wer scherzt, kann eine eigene Wegwerf-Adresse bestätigen und trotzdem eine fremde Nummer eintragen.
 
 **Zu prüfen (Chris sagte, die Bestätigung per E-Mail sei in Deutschland für Anfragen gesetzlich vorgeschrieben):** Nach Claudes Wissen ist die doppelte Bestätigung der übliche Nachweis einer Einwilligung für Newsletter und Werbung; für eine Anfrage, die der Kunde selbst stellt, ist sie nicht vorgeschrieben. Keine Rechtsauskunft, vor einer Aussage an Dritte nachlesen.
+
+**Korrektur von Domi, 15:30 Uhr:** Die Sprachnachricht (eine von vier, sie erklärt den Ablauf am Tag der Show) gehört nicht zum Erstkontakt, sondern zum Angebot, also zur zweiten Säule. In diesem Schritt bekommt der Kunde zusammen: die Sprachnachricht, das Angebot mit der Aufforderung zu buchen, den Preis und die Setcards. In Claudes Ablauf von 15:15 fehlten Preis, Buchungsaufforderung und Setcards. Es sind also zwei Momente, in denen Domi abdrückt: 1. die Rückfrage nach dem Anfrageformular, 2. nach dem Ja des Kunden das Angebot.
