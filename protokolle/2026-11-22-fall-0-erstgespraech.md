@@ -159,3 +159,20 @@ Chris, 22.11.: «Wir sind jetzt noch in der Bestandsaufnahme, nicht beim Lösen.
 **Korrektur zum Preis:** Der Preis hängt an der **Postleitzahl der Show**, nicht am Wohnort des Künstlers. An einem Ort kostet ein Stripper 299 Euro, «egal, welcher dahin fährt». Die Künstlerliste braucht es für den Preis also nicht. Sie braucht es später, wenn auch die Anfrage an die Künstler von selbst gehen soll (dritte Säule). Domi kennt das von einer anderen Agentur: Datei mit allen Künstlern und Adresse, das System ermittelt zur PLZ der Anfrage, wer in Frage kommt. Chris: so ist es einfacher für ein System und fairer für die Künstler.
 
 **Was Domi an Claudes Vorschlag stört:** die Stelle «wenn Meta mitspielt». Und Chris beim Lesen von Fassung A: «Was will er überhaupt jetzt von uns?» Fassung A war also nicht klar genug.
+
+## Stand 14:45 Uhr: Brainstorm nach dem Risiko-Entscheid (Aufnahme `Sprache 261122_144054`, 3,5 Min.)
+
+Vorher entschieden (steht in `CLAUDE.md`): kein Weg, der im schlechtesten Fall das WhatsApp-Konto kostet. ManyChat und jede Automatik über Domis WhatsApp entfallen.
+
+**Domi:**
+- Kunden, die anrufen, fragen von sich aus: «Schickst du es dann per E-Mail?» Mit einer Mail haben sie kein Problem.
+- Die Sprachnachricht ersetzt das Telefonat. Der Kunde hat einen Ansprechpartner und «fühlt sich nicht, als würde er einem Chatbot schreiben». Sie erklärt in ein bis zwei Minuten, wie alles abläuft. Für ihn «der Gamechanger und marketingtechnisch der absolute Reisser».
+- Seine Frage: Was können wir tun, damit die Kunden weiter das Gefühl haben, dass alles für ihre Anfrage von ihm persönlich aufgenommen und erklärt wird?
+- Ein voraufgenommenes Video bringe das nicht, «weil sie ja wissen, dass es voraufgenommen ist».
+- «Die Leute wollen ja auch nur WhatsApp mit dir schreiben.»
+
+**Chris:**
+- «Vielleicht verbauen wir uns gerade selbst»: Das Ziel muss nicht sein, 70 % sofort auf null zu bringen. Es reicht, wenn nur noch rund 30 % von Hand bleiben. «Du landest nach den drei Stunden und die Hälfte davon ist eigentlich schon erledigt.»
+- Idee: rund 30 Fassungen aufnehmen (am Berg, zu Hause), in denen Domi sich filmt und den Text spricht; die Webseite spielt eine davon ein.
+
+Beide: Es ist ein Brainstorm, nichts entschieden.
