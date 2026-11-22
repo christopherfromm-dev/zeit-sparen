@@ -116,3 +116,10 @@ Neu im Ordner:
 - **«Checkliste Erstgespräch - Limited Strip»** (Kopie von heute). Erste Frage geändert in: «Was wäre deine Traumvorstellung, wenn du wirklich mal frei sein darfst?»
 
 Folge für den Befund: Der höchste Pain liegt bisher bei Anfrage bis Buchung (7,5), nicht bei den Änderungen. Die Vermutung «Änderung per Zuruf» (W5) erst mit seinem Pain-Wert für Änderungen vergleichen.
+
+## Technik-Befund Webseite (öffentlich angesehen, 22.11., nichts geändert)
+
+- WordPress mit **Elementor Pro**. Die Buchungsformulare (`/buchung-stripshow/`, `/buchung-shuttle-service/`) sind Elementor-Pro-Formulare.
+- Elementor-Pro-Formulare können nach dem Absenden von sich aus: Mail an Domi, **zweite Mail an den Kunden**, **Weiterleitung auf eine Danke-Seite**, Webhook. Die Angaben aus dem Formular lassen sich in Mail und Weiterleitung einsetzen. Vor Ort im Formular unter «Actions After Submit» bestätigen.
+- Das Feld für die Rufnummer ist ein gewöhnliches Textfeld («Wichtig! Deine Rufnummer für Rückfragen eintragen»), ohne Prüfung. Darum geht auch «1» durch. E-Mail ist ein E-Mail-Feld, einmal abgefragt.
+- Folge: Doppelte Eingabe, Prüfung der Nummer, Danke-Seite mit WhatsApp-Knopf und Bestätigungsmail mit demselben Knopf gehen mit dem, was Domi schon hat, ohne neues Werkzeug.
