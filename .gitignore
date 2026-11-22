@@ -6,3 +6,5 @@ __pycache__/
 .env
 *.key
 sicherung/
+.claude/scripts/.letzte-nachricht
+.claude/settings.local.json
