@@ -83,3 +83,16 @@ In höchstens drei Stunden fertig, nichts Halbes. Domi nutzt sie am selben Tag a
 - Der Verlust durch späte Antworten lässt sich nicht beziffern. Die Wirkung muss an etwas anderem gemessen werden (Frage 8).
 
 **Nachtrag zu Frage 4 (Preis):** Der Preis weicht um **10 bis 40 Euro** ab. Grund sind immer die **Anfahrtskosten**, oder die Show liegt in einem Gebiet, in dem es sehr wenige Künstler und Künstlerinnen gibt. Noch offen: wie oft er abweicht, und ob der Preis fest werden darf oder eine Spanne.
+
+## Idee von Chris und Domi zum Preis (22.11., Diktat, bricht am Ende ab)
+
+Das System soll den Preis selbst bestimmen: aus dem Ort, den der Kunde angibt, und den Orten, an denen Domis Künstler und Künstlerinnen wohnen. Daraus ergibt sich die Anfahrt, dazu der aktuelle Spritpreis, und daraus ein Preis für genau diese Anfrage. Damit wäre der Preis nicht fest, aber auch nicht mehr von Hand.
+
+**Was dafür da sein muss (Bestandsaufnahme, noch keine Lösung):**
+- **Künstlerliste mit Wohnort** je Künstler. Gibt es heute nicht, nur seine Kontakte.
+- **Domis Rechenregel in seinen Worten:** Wie kommt er heute im Kopf auf die 10 bis 40 Euro? Grundpreis je Leistung, Betrag je Kilometer oder Zonen, ab welcher Entfernung welcher Zuschlag?
+- **Welcher Künstler zählt?** Der nächste, oder der Durchschnitt der Region? Bei der Anfrage steht noch nicht fest, wer fährt.
+- **Zuschlag für dünn besetzte Gebiete:** Welche Gebiete sind das, und wie viel?
+- **Grenzen:** tiefster und höchster Preis, den das System nennen darf. Wann soll es Domi fragen statt selbst rechnen?
+- **Spritpreis:** Wie stark bewegt er den Preis wirklich, gemessen an den 10 bis 40 Euro?
+- Die Regel im Projekt bleibt: Domi legt fest, wie gerechnet wird. Das System rechnet nach seiner Regel.
