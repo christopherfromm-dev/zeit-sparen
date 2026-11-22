@@ -141,3 +141,16 @@ Anfangen mit den Künstlern, die er am häufigsten vermittelt. Der Rest kommt na
 **22.11., Chris:** Die Buchungsquote (wie viele Anfragen zu Buchungen werden) wird heute nicht gebraucht. Gestrichen für heute, höchstens später fürs Messen. Für den Weg «Anfrage bis Buchung» sind noch zwei Dinge offen: Domis Entscheid, ob WhatsApp automatisch senden darf oder er selbst sendet, und eine echte Anfrage als Video (Formular-Mail und Chat).
 
 **22.11., 14:00, Korrektur:** Der Preis hängt an der PLZ der Show (Preiskarte), nicht am Wohnort des Künstlers. Im To-do oben entfallen für den Preis: Wohnort, Stufe, Mindestgage, «fährt bis». Die Künstlerliste bleibt für später (Künstler von selbst anfragen). Für den Preis braucht es nur die Preiskarte als Tabelle nach PLZ.
+
+## WhatsApp-Richtlinie, nachgelesen am 22.11.2026 (zweiter Durchgang)
+
+Quelle A: https://whatsappbusiness.com/policy/ («Last updated: September 23, 2026»). Quelle B: https://developers.facebook.com/docs/whatsapp/overview/policy-enforcement/violations. Gelesen von einem Helfer mit wörtlichen Zitaten; die Meta Commerce Policy, auf die A verweist, wurde nicht gelesen.
+
+- **Geltung (A):** «This policy … govern your use of the WhatsApp for Business services including those listed below: The WhatsApp Business App, The WhatsApp Business Platform».
+- **Verbot (A):** «We prohibit use of WhatsApp for Business for buying, selling, promoting, or otherwise facilitating the exchange of certain regulated or restricted goods and services listed below», in der Liste: «Adult products and services». Ausnahmen gibt es nur für Glücksspiel, rezeptfreie Medikamente und Alkohol. «These prohibitions apply irrespective of the global or local licenses, registrations, or other approvals your business may hold.»
+- **Beispiele (B):** «Businesses may not transact in the sale or use of adult products or services. Examples: … Videos or live shows for adult entertainment, Sexually suggestive services». Dazu: «Businesses may not position products or services in a sexually suggestive manner», Beispiele «Implied nudity».
+- **Inhalt (A):** «Messages must not contain offensive content, for example sexually explicit materials or nudity, determined at our sole discretion.»
+- **Folgen (A):** «We may limit or remove your access to or use of WhatsApp for Business», bis zu «we may prohibit you and your organization from all future use of WhatsApp products and services». Einspruch ist möglich. Eine Vorwarnstufe steht auf keiner der beiden Seiten.
+- Die Wörter «Strip» und «Escort» kommen auf keiner der Seiten vor.
+
+Nicht bekannt: wie streng Meta das durchsetzt. Domis Unternehmenskonto in der Business-App besteht seit Juli 2023 ohne Sperre.
