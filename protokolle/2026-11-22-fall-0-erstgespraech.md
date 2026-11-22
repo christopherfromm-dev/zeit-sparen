@@ -28,6 +28,16 @@ Das Wichtigste aus seiner Sicht. Die Punkte mit * sind **nicht auf den Aufnahmen
 
 **Für die Methode (jeder Kunde):** Die Schmerzskala braucht einen Anker. Vor der Zahl sagen, was 0 und was 10 heisst, und ein Beispiel für die Mitte geben. Sonst fehlt die Relation, und die Zahlen zweier Kunden sind nicht vergleichbar. Die Zahl des Kunden trotzdem stehen lassen und an ihr messen (vorher/nachher bei demselben Menschen).
 
+## Zweiter Nachtrag von Chris (Diktat, mit Domi daneben)
+
+- **Korrektur von Domi:** Verfügbar und schnell sein muss er **jeden Tag**, nicht nur Freitag bis Sonntag.
+- **Woran heute gearbeitet wird:** «Anfrage bis Buchung», im Dokument die Punkte 1 bis 4 (Anfrage kommt rein, Pflichtdaten, Kunde bestätigen, Angebot senden, Kunde bucht). Das sind die ersten zwei Säulen: verfügbar und schnell sein, und dem Kunden alles schicken, bis er abschliesst.
+- **Heute nicht:** Künstler vermitteln, Rechnungen, Liste füllen (ab «Künstler sagt zu»).
+- **Domis Erwartung:** Ist dieser Teil automatisiert, «ist schon 70 % besser». Für ihn die tief hängende Frucht.
+- **Zur Skala:** Domis 7,5 ist ein spezifischer Schmerz, gemessen an seiner eigenen 10. Ein allgemeiner Massstab (Schulden, Angestellte, Familie, Verantwortung) wäre ein anderer.
+
+**Für die Methode (ersetzt den Anker-Vorschlag oben):** Den Kunden nach seinem eigenen Maximum fragen: «Was ist der grösste Stress, den du je gehabt hast?» Das ist seine 10, das kann er sich vorstellen. Daran die heutige Zahl abfragen. In der Physiotherapie ist die allgemeine Skala Pflicht, hier nehmen wir, was sinnvoll ist.
+
 ## Befund
 
 - **Zurückgespiegelt (Chris):** «Dein grösster Pain ist, dass du ständig verfügbar sein musst, ständig aufs Handy schauen und sehr schnell handeln, um Buchungen zu dir zu holen. Sonst gehen die zur Konkurrenz.»
