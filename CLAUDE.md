@@ -17,4 +17,4 @@ Projekt von Chris und Domi, getrennt von streckenfliegen.com. Nichts von hier na
 ## Beim Start
 - Stand und offene Punkte: `UEBERGABE.md` (Abschnitt 6). Auf dem Tower zusätzlich die Gedächtnisdatei `stand-aktuell`.
 - Skills unter `.claude/skills/` (`morgen`, `lernen`, `anfangen`); Hooks erinnern bei Grusswort und Verabschiedung.
-- Auf dem Tower läuft dieser Ordner dauerhaft per Remote Control («Tower Zeit sparen»). Vor der Arbeit `git pull`, am Ende committen und pushen.
+- Auf dem Tower läuft dieser Ordner dauerhaft per Remote Control («Tower Zeit sparen»), gestartet über `werkzeuge/claude-remote-starten.cmd` im Autostart. Arbeit an Zeit sparen gehört in einen Chat in dieser Umgebung, nicht in den streckenfliegen-Chat. Vor der Arbeit `git pull`, am Ende committen und pushen.
