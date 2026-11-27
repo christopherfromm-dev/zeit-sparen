@@ -18,9 +18,9 @@ Jetzt zum Ziel. Heute kostet dich jede Anfrage gut zwei Minuten Handarbeit: knap
 
 Wie? Wir ziehen deinem Ablauf die Handarbeit aus. Stück für Stück. Du weisst ja, wie das geht.
 
-Dein Teil: jeden Tag ein Punkt, etwa zehn Minuten. Als Erstes die vier Sprachnachrichten an einen Ort. Dann die Danke-Seite und die Bestätigungsmail vom Anfrageformular. Dann die Preiskarte gegenlesen. Mehr nicht.
+Dein Teil: jeden Tag ein Punkt, etwa zehn Minuten. Als Erstes die vier Sprachnachrichten an einen Ort. Dann die Danke-Seite und die Bestätigungsmail vom Anfrageformular. Dann die Preiskarte gegenlesen.
 
-Chris' Teil: Er baut als Nächstes die Rückfrage mit einem einzigen Tipp. Dafür braucht er von dir nur eins: den Zugang zum Anfrageformular in WordPress.
+Und dann kommt der grosse Brocken: Du baust mit deinem Claude die Rückfrage mit einem einzigen Tipp. Chris schaut dir dabei über die Schulter. Bauen tust du.
 
 Und eine kleine Frage zum Schluss: Die rund viertausend alten Google-Kontakte, die du gelöscht hast, hast du die vorher gesichert? Sie liegen noch bis etwa zum zweiundzwanzigsten Dezember im Papierkorb. Bitte nicht leeren, bis das klar ist.
 
